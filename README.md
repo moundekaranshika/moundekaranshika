@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moundekaranshika
 - 👀 I’m interested in coding and web dev stuff
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moundekaranshika2@gmail.com
 - 😄 Pronouns: she/her
