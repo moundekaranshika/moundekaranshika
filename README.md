@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Anshika Moundekar</h1>
 <h3 align="center">🚀 Aspiring Developer | 💻 Tech Enthusiast | 🎯 Problem Solver</h3>
 
 ---
 
 ### 💡 About Me
 
-- 🎓 I'm currently a [Your current role or student status]
+- 🎓 I'm currently a student at IIT Patna
 - 🔭 I’m working on: `AI-Powered Privacy Protection System for Changing Rooms in Bharat`
 - 🌱 Currently learning: `Blockchain`, `Advanced DSA`, `System Design`
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourusername) • [Portfolio](https://yourportfolio.com)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/anshikaoundekar) • [Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -50,9 +50,9 @@
 ### 🙌 Let's Connect
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:moundekaranshika2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anshikamoundekar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://twitter.com/anshika_moundekar"https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
