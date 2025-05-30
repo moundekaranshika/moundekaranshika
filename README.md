@@ -8,7 +8,7 @@
 - 🎓 I'm currently a student at IIT Patna
 - 🔭 I’m working on: `AI-Powered Privacy Protection System for Changing Rooms in Bharat`
 - 🌱 Currently learning: `Blockchain`, `Advanced DSA`, `System Design`
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/anshikaoundekar) • [Portfolio](https://yourportfolio.com)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/anshikamoundekar) • [Portfolio]()
 
 ---
 
