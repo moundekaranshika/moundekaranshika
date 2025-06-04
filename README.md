@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anshika Moundekar!
 
-🎓 Aspiring software developer | 💻 Python & Data Science Enthusiast | 🧠 Lifelong Learner
+💻 Python & Data Science Enthusiast | 🧠 Lifelong Learner
 
 ---
 
